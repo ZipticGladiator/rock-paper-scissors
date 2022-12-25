@@ -1,5 +1,5 @@
 function getComputerChoice() {
-
+    testing
 }
 
 function playRound(playerSelection, computerSelection) {
